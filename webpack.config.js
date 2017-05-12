@@ -4,7 +4,7 @@
 const path = require('path');
 
 const config = {
-    entry : './src/main.js' ,
+    entry : './src/day-2.2.js' ,
 
     module: {
         rules: [
